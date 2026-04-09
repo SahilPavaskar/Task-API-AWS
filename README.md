@@ -341,8 +341,6 @@ sam delete
 
 ---
 
----
-
 ## Author
 
 Built as a hands-on AWS serverless learning project.
