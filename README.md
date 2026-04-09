@@ -341,10 +341,6 @@ sam delete
 
 ---
 
-## Resume-Friendly Summary
-
-**Built and deployed a serverless CRUD API on AWS using API Gateway, Lambda, DynamoDB, and AWS SAM, implementing route-based Lambda functions and infrastructure as code for a fully working backend application.**
-
 ---
 
 ## Author
