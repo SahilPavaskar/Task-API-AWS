@@ -285,19 +285,6 @@ This project demonstrates:
 
 ---
 
-## What Recruiters / Interviewers Can Ask About
-
-This project gives you room to talk about:
-
-- Why API Gateway is used in front of Lambda
-- Why Lambda functions are stateless
-- Why DynamoDB fits this use case
-- How infrastructure as code helps repeatable deployment
-- How CRUD routes map to separate Lambda handlers
-- What improvements you would make for production readiness
-
----
-
 ## Current Limitations
 
 This is the MVP version and does not yet include:
